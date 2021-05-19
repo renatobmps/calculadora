@@ -6,7 +6,7 @@ const Container = styled.div`
   margin: 0 auto;
   display: flex;
   flex-direction: column;
-  font-size: 1rem;
+  font-size: 14px;
   max-width: 25em;
   border-radius: .5em;
   overflow: hidden;
